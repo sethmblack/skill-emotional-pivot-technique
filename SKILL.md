@@ -3,7 +3,7 @@ name: emotional-pivot-technique
 description: Transform writing or speech by deliberately shifting between comedy and sincerity to create emotional depth, maintain engagement, and build trust through strategic vulnerability.
 license: MIT
 metadata:
-  version: 1.0.3897
+  version: 1.0.3898
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
